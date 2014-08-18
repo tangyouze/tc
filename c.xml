@@ -1,7 +1,12 @@
 
 <Module>
-    <ModulePrefs title="hello world example"/>
-    <Content type="html">
-        <![CDATA[ Hello, world! ]]>
-    </Content>
+    <ModulePrefs
+        title="Topcoder"
+        height="61"
+        description="Topcoder"
+        author="xxoo"
+        author_email="rar.zip.7z@gmail.com">
+        <Content type="html">
+            <![CDATA[ Hello, world! ]]>
+        </Content>
 </Module>
