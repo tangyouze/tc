@@ -7,16 +7,6 @@
         author="xxoo"
         author_email="rar.zip.7z@gmail.com">
         <Content type="html">
-            <![CDATA[ 
-
-Hello, world!
-
-
-
-
-
-
-
-            ]]>
+            <![CDATA[ Hello, world!  ]]>
         </Content>
 </Module>
